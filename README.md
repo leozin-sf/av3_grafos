@@ -21,6 +21,7 @@ yarn install
 npm install
 ```
 ### Run project
+#### Using yarn
 ```bash
 yarn run dev
 ```
